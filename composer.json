@@ -1,0 +1,18 @@
+{
+  "name": "gao922699/pattern-helper",
+  "description": "a helper for some pattern",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "gaoqing",
+      "email": "672405020@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "gao922699\\PatternHelper\\": "lib/"
+    }
+  }
+}
